@@ -1,0 +1,1231 @@
+year,country,visitors
+1983,EUROPE,45500
+1983,Austria,580
+1983,Belgium,590
+1983,France,22050
+1983,Germany,6960
+1983,Italy,5520
+1983,Netherlands,440
+1983,Spain,100
+1983,Sweden,130
+1983,Switzerland,2570
+1983,United Kingdom,5860
+1983,CIS,
+1983,CIS-Russian Federation,
+1983,CIS-Other European,700
+1983,AFRICA,71370
+1983,Comoros,360
+1983,Kenya,690
+1983,Malagasy Rep.,8110
+1983,Reunion Island,30180
+1983,Seychelles,560
+1983,South Africa,27150
+1983,Zimbabwe,1730
+1983,Other African,2590
+1983,ASIA,3350
+1983,Hong Kong SAR,100
+1983,India,1710
+1983,Japan,230
+1983,Malaysia,10
+1983,Peoples' Rep. of China,210
+1983,Singapore,10
+1983,United Arab Emirates,
+1983,Other Asian,1080
+1983,OCEANIA,2180
+1983,Australia,1680
+1983,Other Oceanian,500
+1983,AMERICA,1420
+1983,USA,1020
+1983,Canada,210
+1983,Other American,190
+1983,Other & Not Stated,0
+1983,All Countries,123820
+1984,EUROPE,53870
+1984,Austria,530
+1984,Belgium,840
+1984,France,25460
+1984,Germany,7890
+1984,Italy,6170
+1984,Netherlands,560
+1984,Spain,230
+1984,Sweden,160
+1984,Switzerland,5440
+1984,United Kingdom,5760
+1984,CIS,
+1984,CIS-Russian Federation,
+1984,CIS-Other European,830
+1984,AFRICA,77150
+1984,Comoros,270
+1984,Kenya,700
+1984,Malagasy Rep.,7780
+1984,Reunion Island,32300
+1984,Seychelles,340
+1984,South Africa,31560
+1984,Zimbabwe,1800
+1984,Other African,2400
+1984,ASIA,5050
+1984,Hong Kong SAR,500
+1984,India,2540
+1984,Japan,520
+1984,Malaysia,20
+1984,Peoples' Rep. of China,430
+1984,Singapore,90
+1984,United Arab Emirates,
+1984,Other Asian,950
+1984,OCEANIA,1890
+1984,Australia,1580
+1984,Other Oceanian,310
+1984,AMERICA,1710
+1984,USA,1130
+1984,Canada,390
+1984,Other American,190
+1984,Other & Not Stated,0
+1984,All Countries,139670
+1985,EUROPE,59920
+1985,Austria,770
+1985,Belgium,840
+1985,France,27470
+1985,Germany,8920
+1985,Italy,6830
+1985,Netherlands,260
+1985,Spain,210
+1985,Sweden,290
+1985,Switzerland,6480
+1985,United Kingdom,7110
+1985,CIS,
+1985,CIS-Russian Federation,
+1985,CIS-Other European,740
+1985,AFRICA,76870
+1985,Comoros,630
+1985,Kenya,780
+1985,Malagasy Rep.,6710
+1985,Reunion Island,35630
+1985,Seychelles,770
+1985,South Africa,27410
+1985,Zimbabwe,1900
+1985,Other African,3040
+1985,ASIA,7130
+1985,Hong Kong SAR,380
+1985,India,2980
+1985,Japan,650
+1985,Malaysia,350
+1985,Peoples' Rep. of China,680
+1985,Singapore,980
+1985,United Arab Emirates,
+1985,Other Asian,1110
+1985,OCEANIA,2760
+1985,Australia,2460
+1985,Other Oceanian,300
+1985,AMERICA,2180
+1985,USA,1460
+1985,Canada,650
+1985,Other American,70
+1985,Other & Not Stated,0
+1985,All Countries,148860
+1986,EUROPE,70000
+1986,Austria,610
+1986,Belgium,1140
+1986,France,32370
+1986,Germany,9120
+1986,Italy,9110
+1986,Netherlands,290
+1986,Spain,190
+1986,Sweden,390
+1986,Switzerland,7390
+1986,United Kingdom,8500
+1986,CIS,
+1986,CIS-Russian Federation,
+1986,CIS-Other European,890
+1986,AFRICA,81130
+1986,Comoros,380
+1986,Kenya,770
+1986,Malagasy Rep.,6180
+1986,Reunion Island,40810
+1986,Seychelles,790
+1986,South Africa,26680
+1986,Zimbabwe,2740
+1986,Other African,2780
+1986,ASIA,8660
+1986,Hong Kong SAR,820
+1986,India,2270
+1986,Japan,1740
+1986,Malaysia,260
+1986,Peoples' Rep. of China,920
+1986,Singapore,1360
+1986,United Arab Emirates,
+1986,Other Asian,1290
+1986,OCEANIA,2920
+1986,Australia,2480
+1986,Other Oceanian,440
+1986,AMERICA,2600
+1986,USA,1780
+1986,Canada,560
+1986,Other American,260
+1986,Other & Not Stated,0
+1986,All Countries,165310
+1987,EUROPE,95490
+1987,Austria,1070
+1987,Belgium,1400
+1987,France,44200
+1987,Germany,13780
+1987,Italy,12240
+1987,Netherlands,500
+1987,Spain,610
+1987,Sweden,390
+1987,Switzerland,8180
+1987,United Kingdom,11790
+1987,CIS,
+1987,CIS-Russian Federation,
+1987,CIS-Other European,1330
+1987,AFRICA,94930
+1987,Comoros,550
+1987,Kenya,1020
+1987,Malagasy Rep.,7190
+1987,Reunion Island,47970
+1987,Seychelles,1090
+1987,South Africa,30960
+1987,Zimbabwe,2370
+1987,Other African,3780
+1987,ASIA,10870
+1987,Hong Kong SAR,1340
+1987,India,2980
+1987,Japan,1780
+1987,Malaysia,210
+1987,Peoples' Rep. of China,1490
+1987,Singapore,1020
+1987,United Arab Emirates,
+1987,Other Asian,2050
+1987,OCEANIA,3510
+1987,Australia,3150
+1987,Other Oceanian,360
+1987,AMERICA,2770
+1987,USA,1880
+1987,Canada,690
+1987,Other American,200
+1987,Other & Not Stated,0
+1987,All Countries,207570
+1988,EUROPE,109640
+1988,Austria,1090
+1988,Belgium,1810
+1988,France,50240
+1988,Germany,15130
+1988,Italy,14960
+1988,Netherlands,590
+1988,Spain,650
+1988,Sweden,630
+1988,Switzerland,9080
+1988,United Kingdom,13780
+1988,CIS,
+1988,CIS-Russian Federation,
+1988,CIS-Other European,1680
+1988,AFRICA,111920
+1988,Comoros,730
+1988,Kenya,1260
+1988,Malagasy Rep.,6770
+1988,Reunion Island,56930
+1988,Seychelles,1950
+1988,South Africa,35860
+1988,Zimbabwe,2900
+1988,Other African,5520
+1988,ASIA,12890
+1988,Hong Kong SAR,1520
+1988,India,4220
+1988,Japan,2190
+1988,Malaysia,520
+1988,Peoples' Rep. of China,1470
+1988,Singapore,1340
+1988,United Arab Emirates,
+1988,Other Asian,1630
+1988,OCEANIA,2660
+1988,Australia,2310
+1988,Other Oceanian,350
+1988,AMERICA,2150
+1988,USA,1470
+1988,Canada,490
+1988,Other American,190
+1988,Other & Not Stated,0
+1988,All Countries,239260
+1989,EUROPE,120600
+1989,Austria,1360
+1989,Belgium,1630
+1989,France,53660
+1989,Germany,18210
+1989,Italy,14470
+1989,Netherlands,330
+1989,Spain,1110
+1989,Sweden,920
+1989,Switzerland,10690
+1989,United Kingdom,16550
+1989,CIS,
+1989,CIS-Russian Federation,
+1989,CIS-Other European,1670
+1989,AFRICA,121090
+1989,Comoros,660
+1989,Kenya,1100
+1989,Malagasy Rep.,6530
+1989,Reunion Island,65550
+1989,Seychelles,3260
+1989,South Africa,36860
+1989,Zimbabwe,2870
+1989,Other African,4260
+1989,ASIA,15310
+1989,Hong Kong SAR,1040
+1989,India,4790
+1989,Japan,2900
+1989,Malaysia,690
+1989,Peoples' Rep. of China,730
+1989,Singapore,1990
+1989,United Arab Emirates,
+1989,Other Asian,3170
+1989,OCEANIA,2830
+1989,Australia,2510
+1989,Other Oceanian,320
+1989,AMERICA,2960
+1989,USA,1890
+1989,Canada,790
+1989,Other American,280
+1989,Other & Not Stated,0
+1989,All Countries,262790
+1990,EUROPE,128840
+1990,Austria,1490
+1990,Belgium,1920
+1990,France,53170
+1990,Germany,19680
+1990,Italy,14180
+1990,Netherlands,690
+1990,Spain,1700
+1990,Sweden,1260
+1990,Switzerland,10740
+1990,United Kingdom,21920
+1990,CIS,
+1990,CIS-Russian Federation,
+1990,CIS-Other European,2090
+1990,AFRICA,135320
+1990,Comoros,700
+1990,Kenya,1440
+1990,Malagasy Rep.,6550
+1990,Reunion Island,73310
+1990,Seychelles,3500
+1990,South Africa,41860
+1990,Zimbabwe,3670
+1990,Other African,4290
+1990,ASIA,20410
+1990,Hong Kong SAR,1740
+1990,India,8190
+1990,Japan,3220
+1990,Malaysia,620
+1990,Peoples' Rep. of China,1020
+1990,Singapore,2110
+1990,United Arab Emirates,
+1990,Other Asian,3510
+1990,OCEANIA,3520
+1990,Australia,3060
+1990,Other Oceanian,460
+1990,AMERICA,3460
+1990,USA,2220
+1990,Canada,960
+1990,Other American,280
+1990,Other & Not Stated,0
+1990,All Countries,291550
+1991,EUROPE,134260
+1991,Austria,1720
+1991,Belgium,2010
+1991,France,58370
+1991,Germany,24140
+1991,Italy,13240
+1991,Netherlands,520
+1991,Spain,1630
+1991,Sweden,950
+1991,Switzerland,8930
+1991,United Kingdom,20660
+1991,CIS,
+1991,CIS-Russian Federation,
+1991,CIS-Other European,2090
+1991,AFRICA,139460
+1991,Comoros,990
+1991,Kenya,1240
+1991,Malagasy Rep.,6010
+1991,Reunion Island,77840
+1991,Seychelles,3420
+1991,South Africa,43020
+1991,Zimbabwe,3580
+1991,Other African,3360
+1991,ASIA,20800
+1991,Hong Kong SAR,1960
+1991,India,8490
+1991,Japan,3750
+1991,Malaysia,890
+1991,Peoples' Rep. of China,1230
+1991,Singapore,2010
+1991,United Arab Emirates,
+1991,Other Asian,2470
+1991,OCEANIA,3230
+1991,Australia,2960
+1991,Other Oceanian,270
+1991,AMERICA,2920
+1991,USA,1720
+1991,Canada,940
+1991,Other American,260
+1991,Other & Not Stated,0
+1991,All Countries,300670
+1992,EUROPE,164660
+1992,Austria,2120
+1992,Belgium,2510
+1992,France,74330
+1992,Germany,29800
+1992,Italy,14990
+1992,Netherlands,590
+1992,Spain,1650
+1992,Sweden,1160
+1992,Switzerland,10150
+1992,United Kingdom,24510
+1992,CIS,
+1992,CIS-Russian Federation,
+1992,CIS-Other European,2850
+1992,AFRICA,141710
+1992,Comoros,1010
+1992,Kenya,1720
+1992,Malagasy Rep.,7260
+1992,Reunion Island,81260
+1992,Seychelles,4710
+1992,South Africa,39790
+1992,Zimbabwe,2990
+1992,Other African,2970
+1992,ASIA,20460
+1992,Hong Kong SAR,1740
+1992,India,8200
+1992,Japan,3520
+1992,Malaysia,1030
+1992,Peoples' Rep. of China,1570
+1992,Singapore,1680
+1992,United Arab Emirates,
+1992,Other Asian,2720
+1992,OCEANIA,5520
+1992,Australia,5100
+1992,Other Oceanian,420
+1992,AMERICA,3050
+1992,USA,1830
+1992,Canada,820
+1992,Other American,400
+1992,Other & Not Stated,0
+1992,All Countries,335400
+1993,EUROPE,193620
+1993,Austria,3460
+1993,Belgium,3530
+1993,France,85120
+1993,Germany,38500
+1993,Italy,15290
+1993,Netherlands,770
+1993,Spain,2090
+1993,Sweden,970
+1993,Switzerland,11010
+1993,United Kingdom,29950
+1993,CIS,
+1993,CIS-Russian Federation,
+1993,CIS-Other European,2930
+1993,AFRICA,149750
+1993,Comoros,930
+1993,Kenya,1070
+1993,Malagasy Rep.,7740
+1993,Reunion Island,84960
+1993,Seychelles,5420
+1993,South Africa,42350
+1993,Zimbabwe,3460
+1993,Other African,3820
+1993,ASIA,22670
+1993,Hong Kong SAR,1330
+1993,India,10740
+1993,Japan,2540
+1993,Malaysia,1180
+1993,Peoples' Rep. of China,1490
+1993,Singapore,2770
+1993,United Arab Emirates,
+1993,Other Asian,2620
+1993,OCEANIA,4950
+1993,Australia,4520
+1993,Other Oceanian,430
+1993,AMERICA,3640
+1993,USA,1790
+1993,Canada,1340
+1993,Other American,510
+1993,Other & Not Stated,0
+1993,All Countries,374630
+1994,EUROPE,229297
+1994,Austria,4563
+1994,Belgium,4292
+1994,France,106268
+1994,Germany,41824
+1994,Italy,18149
+1994,Netherlands,955
+1994,Spain,2597
+1994,Sweden,1605
+1994,Switzerland,11453
+1994,United Kingdom,33295
+1994,CIS,
+1994,CIS-Russian Federation,
+1994,CIS-Other European,4296
+1994,AFRICA,138498
+1994,Comoros,1148
+1994,Kenya,1278
+1994,Malagasy Rep.,6849
+1994,Reunion Island,77035
+1994,Seychelles,5650
+1994,South Africa,39762
+1994,Zimbabwe,3539
+1994,Other African,3237
+1994,ASIA,23695
+1994,Hong Kong SAR,1336
+1994,India,10449
+1994,Japan,3221
+1994,Malaysia,1313
+1994,Peoples' Rep. of China,1576
+1994,Singapore,3247
+1994,United Arab Emirates,
+1994,Other Asian,2553
+1994,OCEANIA,4448
+1994,Australia,4160
+1994,Other Oceanian,288
+1994,AMERICA,3369
+1994,USA,2006
+1994,Canada,1105
+1994,Other American,258
+1994,Other & Not Stated,1219
+1994,All Countries,400526
+1995,EUROPE,244070
+1995,Austria,4841
+1995,Belgium,5802
+1995,France,116701
+1995,Germany,41637
+1995,Italy,17384
+1995,Netherlands,1513
+1995,Spain,3019
+1995,Sweden,1709
+1995,Switzerland,13815
+1995,United Kingdom,31324
+1995,CIS,
+1995,CIS-Russian Federation,
+1995,CIS-Other European,6325
+1995,AFRICA,143586
+1995,Comoros,1348
+1995,Kenya,1158
+1995,Malagasy Rep.,6885
+1995,Reunion Island,78431
+1995,Seychelles,7116
+1995,South Africa,42653
+1995,Zimbabwe,2965
+1995,Other African,3030
+1995,ASIA,24386
+1995,Hong Kong SAR,1645
+1995,India,11225
+1995,Japan,3176
+1995,Malaysia,1043
+1995,Peoples' Rep. of China,1918
+1995,Singapore,2601
+1995,United Arab Emirates,
+1995,Other Asian,2778
+1995,OCEANIA,5902
+1995,Australia,5558
+1995,Other Oceanian,344
+1995,AMERICA,3617
+1995,USA,2093
+1995,Canada,1157
+1995,Other American,367
+1995,Other & Not Stated,902
+1995,All Countries,422463
+1996,EUROPE,281817
+1996,Austria,8484
+1996,Belgium,8060
+1996,France,130292
+1996,Germany,45221
+1996,Italy,21848
+1996,Netherlands,2170
+1996,Spain,3384
+1996,Sweden,3034
+1996,Switzerland,15692
+1996,United Kingdom,35271
+1996,CIS,1621
+1996,CIS-Russian Federation,714
+1996,CIS-Other European,6740
+1996,AFRICA,163435
+1996,Comoros,1223
+1996,Kenya,1170
+1996,Malagasy Rep.,11401
+1996,Reunion Island,82272
+1996,Seychelles,9325
+1996,South Africa,50361
+1996,Zimbabwe,3402
+1996,Other African,4281
+1996,ASIA,28818
+1996,Hong Kong SAR,2066
+1996,India,13075
+1996,Japan,3192
+1996,Malaysia,1487
+1996,Peoples' Rep. of China,1953
+1996,Singapore,3153
+1996,United Arab Emirates,124
+1996,Other Asian,3768
+1996,OCEANIA,8144
+1996,Australia,7762
+1996,Other Oceanian,382
+1996,AMERICA,4265
+1996,USA,2362
+1996,Canada,1487
+1996,Other American,416
+1996,Other & Not Stated,388
+1996,All Countries,486867
+1997,EUROPE,326379
+1997,Austria,8317
+1997,Belgium,8162
+1997,France,145173
+1997,Germany,43993
+1997,Italy,35255
+1997,Netherlands,2868
+1997,Spain,3825
+1997,Sweden,4660
+1997,Switzerland,16105
+1997,United Kingdom,46022
+1997,CIS,2151
+1997,CIS-Russian Federation,1643
+1997,CIS-Other European,9848
+1997,AFRICA,164198
+1997,Comoros,969
+1997,Kenya,1230
+1997,Malagasy Rep.,10143
+1997,Reunion Island,82628
+1997,Seychelles,8995
+1997,South Africa,51249
+1997,Zimbabwe,4248
+1997,Other African,4736
+1997,ASIA,30094
+1997,Hong Kong SAR,1629
+1997,India,13220
+1997,Japan,3140
+1997,Malaysia,2175
+1997,Peoples' Rep. of China,2111
+1997,Singapore,3404
+1997,United Arab Emirates,203
+1997,Other Asian,4212
+1997,OCEANIA,9896
+1997,Australia,9460
+1997,Other Oceanian,436
+1997,AMERICA,5509
+1997,USA,2879
+1997,Canada,1662
+1997,Other American,968
+1997,Other & Not Stated,49
+1997,All Countries,536125
+1998,EUROPE,352530
+1998,Austria,7757
+1998,Belgium,8365
+1998,France,162775
+1998,Germany,43826
+1998,Italy,36614
+1998,Netherlands,3085
+1998,Spain,4738
+1998,Sweden,4022
+1998,Switzerland,16178
+1998,United Kingdom,52299
+1998,CIS,2039
+1998,CIS-Russian Federation,1672
+1998,CIS-Other European,10832
+1998,AFRICA,163135
+1998,Comoros,907
+1998,Kenya,1684
+1998,Malagasy Rep.,9213
+1998,Reunion Island,83966
+1998,Seychelles,8529
+1998,South Africa,49676
+1998,Zimbabwe,3796
+1998,Other African,5364
+1998,ASIA,27279
+1998,Hong Kong SAR,969
+1998,India,12629
+1998,Japan,2505
+1998,Malaysia,1544
+1998,Peoples' Rep. of China,2366
+1998,Singapore,3515
+1998,United Arab Emirates,117
+1998,Other Asian,3634
+1998,OCEANIA,9349
+1998,Australia,8913
+1998,Other Oceanian,436
+1998,AMERICA,5842
+1998,USA,3158
+1998,Canada,1584
+1998,Other American,1100
+1998,Other & Not Stated,60
+1998,All Countries,558195
+1999,EUROPE,378761
+1999,Austria,8095
+1999,Belgium,9586
+1999,France,175431
+1999,Germany,45206
+1999,Italy,36675
+1999,Netherlands,4110
+1999,Spain,6204
+1999,Sweden,4552
+1999,Switzerland,16281
+1999,United Kingdom,58683
+1999,CIS,1476
+1999,CIS-Russian Federation,1038
+1999,CIS-Other European,12462
+1999,AFRICA,156314
+1999,Comoros,728
+1999,Kenya,1655
+1999,Malagasy Rep.,7880
+1999,Reunion Island,83749
+1999,Seychelles,7893
+1999,South Africa,46583
+1999,Zimbabwe,2606
+1999,Other African,5220
+1999,ASIA,28442
+1999,Hong Kong SAR,859
+1999,India,13583
+1999,Japan,2324
+1999,Malaysia,1529
+1999,Peoples' Rep. of China,2189
+1999,Singapore,3661
+1999,United Arab Emirates,147
+1999,Other Asian,4150
+1999,OCEANIA,8503
+1999,Australia,8076
+1999,Other Oceanian,427
+1999,AMERICA,5831
+1999,USA,3345
+1999,Canada,1506
+1999,Other American,980
+1999,Other & Not Stated,234
+1999,All Countries,578085
+2000,EUROPE,439989
+2000,Austria,8874
+2000,Belgium,10998
+2000,France,198423
+2000,Germany,52869
+2000,Italy,39000
+2000,Netherlands,4925
+2000,Spain,7226
+2000,Sweden,5694
+2000,Switzerland,20473
+2000,United Kingdom,74488
+2000,CIS,2083
+2000,CIS-Russian Federation,1400
+2000,CIS-Other European,14936
+2000,AFRICA,163921
+2000,Comoros,945
+2000,Kenya,1801
+2000,Malagasy Rep.,7057
+2000,Reunion Island,86945
+2000,Seychelles,9229
+2000,South Africa,48683
+2000,Zimbabwe,3435
+2000,Other African,5826
+2000,ASIA,34907
+2000,Hong Kong SAR,1227
+2000,India,17241
+2000,Japan,2389
+2000,Malaysia,1616
+2000,Peoples' Rep. of China,2459
+2000,Singapore,4104
+2000,United Arab Emirates,162
+2000,Other Asian,5709
+2000,OCEANIA,9460
+2000,Australia,8771
+2000,Other Oceanian,689
+2000,AMERICA,7680
+2000,USA,3704
+2000,Canada,1812
+2000,Other American,2164
+2000,Other & Not Stated,496
+2000,All Countries,656453
+2001,EUROPE,437305
+2001,Austria,8696
+2001,Belgium,10398
+2001,France,197595
+2001,Germany,50866
+2001,Italy,37343
+2001,Netherlands,4913
+2001,Spain,7058
+2001,Sweden,5186
+2001,Switzerland,18427
+2001,United Kingdom,77888
+2001,CIS,2459
+2001,CIS-Russian Federation,1772
+2001,CIS-Other European,16476
+2001,AFRICA,168522
+2001,Comoros,860
+2001,Kenya,1734
+2001,Malagasy Rep.,6674
+2001,Reunion Island,91140
+2001,Seychelles,10687
+2001,South Africa,47882
+2001,Zimbabwe,3860
+2001,Other African,5685
+2001,ASIA,36855
+2001,Hong Kong SAR,1488
+2001,India,18890
+2001,Japan,1589
+2001,Malaysia,2215
+2001,Peoples' Rep. of China,3615
+2001,Singapore,3431
+2001,United Arab Emirates,110
+2001,Other Asian,5517
+2001,OCEANIA,9441
+2001,Australia,8790
+2001,Other Oceanian,651
+2001,AMERICA,8075
+2001,USA,3923
+2001,Canada,1845
+2001,Other American,2307
+2001,Other & Not Stated,120
+2001,All Countries,660318
+2002,EUROPE,451504
+2002,Austria,8782
+2002,Belgium,10579
+2002,France,202869
+2002,Germany,53762
+2002,Italy,38263
+2002,Netherlands,4625
+2002,Spain,7770
+2002,Sweden,4647
+2002,Switzerland,17371
+2002,United Kingdom,80667
+2002,CIS,3129
+2002,CIS-Russian Federation,2172
+2002,CIS-Other European,19040
+2002,AFRICA,172641
+2002,Comoros,945
+2002,Kenya,1507
+2002,Malagasy Rep.,9417
+2002,Reunion Island,96375
+2002,Seychelles,13468
+2002,South Africa,42685
+2002,Zimbabwe,3185
+2002,Other African,5059
+2002,ASIA,40796
+2002,Hong Kong SAR,1201
+2002,India,20898
+2002,Japan,1958
+2002,Malaysia,1944
+2002,Peoples' Rep. of China,4248
+2002,Singapore,3114
+2002,United Arab Emirates,1192
+2002,Other Asian,6241
+2002,OCEANIA,9030
+2002,Australia,8387
+2002,Other Oceanian,643
+2002,AMERICA,7472
+2002,USA,4116
+2002,Canada,1842
+2002,Other American,1514
+2002,Other & Not Stated,205
+2002,All Countries,681648
+2003,EUROPE,465379
+2003,Austria,8893
+2003,Belgium,10170
+2003,France,200229
+2003,Germany,53970
+2003,Italy,39774
+2003,Netherlands,4403
+2003,Spain,9081
+2003,Sweden,4857
+2003,Switzerland,17929
+2003,United Kingdom,91210
+2003,CIS,3954
+2003,CIS-Russian Federation,2908
+2003,CIS-Other European,20909
+2003,AFRICA,174430
+2003,Comoros,1437
+2003,Kenya,1510
+2003,Malagasy Rep.,11044
+2003,Reunion Island,95679
+2003,Seychelles,9869
+2003,South Africa,45756
+2003,Zimbabwe,2343
+2003,Other African,6792
+2003,ASIA,44013
+2003,Hong Kong SAR,676
+2003,India,25367
+2003,Japan,1572
+2003,Malaysia,1586
+2003,Peoples' Rep. of China,3738
+2003,Singapore,2102
+2003,United Arab Emirates,2559
+2003,Other Asian,6413
+2003,OCEANIA,9754
+2003,Australia,9103
+2003,Other Oceanian,651
+2003,AMERICA,8164
+2003,USA,4505
+2003,Canada,1845
+2003,Other American,1814
+2003,Other & Not Stated,278
+2003,All Countries,702018
+2004,EUROPE,477041
+2004,Austria,10304
+2004,Belgium,8524
+2004,France,210411
+2004,Germany,52277
+2004,Italy,41277
+2004,Netherlands,4867
+2004,Spain,8475
+2004,Sweden,4609
+2004,Switzerland,16110
+2004,United Kingdom,92652
+2004,CIS,4383
+2004,CIS-Russian Federation,3209
+2004,CIS-Other European,23152
+2004,AFRICA,175649
+2004,Comoros,949
+2004,Kenya,1506
+2004,Malagasy Rep.,8256
+2004,Reunion Island,96510
+2004,Seychelles,7456
+2004,South Africa,52609
+2004,Zimbabwe,2345
+2004,Other African,6018
+2004,ASIA,45325
+2004,Hong Kong SAR,836
+2004,India,24716
+2004,Japan,1724
+2004,Malaysia,2006
+2004,Peoples' Rep. of China,5291
+2004,Singapore,2329
+2004,United Arab Emirates,1715
+2004,Other Asian,6708
+2004,OCEANIA,12068
+2004,Australia,11373
+2004,Other Oceanian,695
+2004,AMERICA,8409
+2004,USA,4305
+2004,Canada,2341
+2004,Other American,1763
+2004,Other & Not Stated,369
+2004,All Countries,718861
+2005,EUROPE,502715
+2005,Austria,10440
+2005,Belgium,8973
+2005,France,220421
+2005,Germany,55983
+2005,Italy,43458
+2005,Netherlands,5111
+2005,Spain,9682
+2005,Sweden,4224
+2005,Switzerland,15773
+2005,United Kingdom,95407
+2005,CIS,5641
+2005,CIS-Russian Federation,4000
+2005,CIS-Other European,27602
+2005,AFRICA,185208
+2005,Comoros,1166
+2005,Kenya,1358
+2005,Malagasy Rep.,7397
+2005,Reunion Island,99036
+2005,Seychelles,10084
+2005,South Africa,58446
+2005,Zimbabwe,2419
+2005,Other African,5302
+2005,ASIA,49202
+2005,Hong Kong SAR,508
+2005,India,29755
+2005,Japan,1638
+2005,Malaysia,1582
+2005,Peoples' Rep. of China,5526
+2005,Singapore,1789
+2005,United Arab Emirates,1344
+2005,Other Asian,7060
+2005,OCEANIA,14424
+2005,Australia,13486
+2005,Other Oceanian,938
+2005,AMERICA,8850
+2005,USA,4890
+2005,Canada,2119
+2005,Other American,1841
+2005,Other & Not Stated,664
+2005,All Countries,761063
+2006,EUROPE,510479
+2006,Austria,10483
+2006,Belgium,9216
+2006,France,182295
+2006,Germany,57251
+2006,Italy,69407
+2006,Netherlands,5525
+2006,Spain,11012
+2006,Sweden,6374
+2006,Switzerland,16161
+2006,United Kingdom,102333
+2006,CIS,7219
+2006,CIS-Russian Federation,5081
+2006,CIS-Other European,33203
+2006,AFRICA,189458
+2006,Comoros,819
+2006,Kenya,1694
+2006,Malagasy Rep.,7239
+2006,Reunion Island,89127
+2006,Seychelles,12023
+2006,South Africa,70796
+2006,Zimbabwe,1587
+2006,Other African,6173
+2006,ASIA,60121
+2006,Hong Kong SAR,519
+2006,India,37498
+2006,Japan,1695
+2006,Malaysia,2472
+2006,Peoples' Rep. of China,4875
+2006,Singapore,1862
+2006,United Arab Emirates,1896
+2006,Other Asian,9304
+2006,OCEANIA,17704
+2006,Australia,16660
+2006,Other Oceanian,1044
+2006,AMERICA,9787
+2006,USA,5220
+2006,Canada,2298
+2006,Other American,2269
+2006,Other & Not Stated,727
+2006,All Countries,788276
+2007,EUROPE,595653
+2007,Austria,10969
+2007,Belgium,10945
+2007,France,240028
+2007,Germany,65165
+2007,Italy,69510
+2007,Netherlands,6331
+2007,Spain,11092
+2007,Sweden,9891
+2007,Switzerland,17546
+2007,United Kingdom,107297
+2007,CIS,8920
+2007,CIS-Russian Federation,5968
+2007,CIS-Other European,37959
+2007,AFRICA,210952
+2007,Comoros,675
+2007,Kenya,1790
+2007,Malagasy Rep.,8842
+2007,Reunion Island,95823
+2007,Seychelles,14275
+2007,South Africa,81733
+2007,Zimbabwe,1669
+2007,Other African,6145
+2007,ASIA,68449
+2007,Hong Kong SAR,649
+2007,India,42974
+2007,Japan,1730
+2007,Malaysia,1865
+2007,Peoples' Rep. of China,7739
+2007,Singapore,2020
+2007,United Arab Emirates,1971
+2007,Other Asian,9501
+2007,OCEANIA,20656
+2007,Australia,19635
+2007,Other Oceanian,1021
+2007,AMERICA,10473
+2007,USA,5451
+2007,Canada,2590
+2007,Other American,2432
+2007,Other & Not Stated,788
+2007,All Countries,906971
+2008,EUROPE,608358
+2008,Austria,8974
+2008,Belgium,11796
+2008,France,260054
+2008,Germany,61484
+2008,Italy,66432
+2008,Netherlands,6051
+2008,Spain,12001
+2008,Sweden,8305
+2008,Switzerland,16037
+2008,United Kingdom,107919
+2008,CIS,10141
+2008,CIS-Russian Federation,6763
+2008,CIS-Other European,39164
+2008,AFRICA,213868
+2008,Comoros,655
+2008,Kenya,1997
+2008,Malagasy Rep.,10905
+2008,Reunion Island,96174
+2008,Seychelles,10604
+2008,South Africa,84448
+2008,Zimbabwe,1809
+2008,Other African,7276
+2008,ASIA,72771
+2008,Hong Kong SAR,641
+2008,India,43911
+2008,Japan,1751
+2008,Malaysia,1509
+2008,Peoples' Rep. of China,8425
+2008,Singapore,1758
+2008,United Arab Emirates,4109
+2008,Other Asian,10667
+2008,OCEANIA,20161
+2008,Australia,18852
+2008,Other Oceanian,1309
+2008,AMERICA,13719
+2008,USA,7089
+2008,Canada,3188
+2008,Other American,3442
+2008,Other & Not Stated,1579
+2008,All Countries,930456
+2009,EUROPE,579509
+2009,Austria,8106
+2009,Belgium,10254
+2009,France,275599
+2009,Germany,51279
+2009,Italy,56736
+2009,Netherlands,5527
+2009,Spain,9549
+2009,Sweden,5060
+2009,Switzerland,15349
+2009,United Kingdom,101996
+2009,CIS,9012
+2009,CIS-Russian Federation,5628
+2009,CIS-Other European,31042
+2009,AFRICA,204308
+2009,Comoros,606
+2009,Kenya,1386
+2009,Malagasy Rep.,8333
+2009,Reunion Island,104946
+2009,Seychelles,7532
+2009,South Africa,74176
+2009,Zimbabwe,1326
+2009,Other African,6003
+2009,ASIA,62131
+2009,Hong Kong SAR,382
+2009,India,39252
+2009,Japan,1351
+2009,Malaysia,1164
+2009,Peoples' Rep. of China,6925
+2009,Singapore,1657
+2009,United Arab Emirates,3141
+2009,Other Asian,8259
+2009,OCEANIA,11143
+2009,Australia,10363
+2009,Other Oceanian,780
+2009,AMERICA,13070
+2009,USA,6951
+2009,Canada,3532
+2009,Other American,2587
+2009,Other & Not Stated,1195
+2009,All Countries,871356
+2010,EUROPE,605401
+2010,Austria,9255
+2010,Belgium,10214
+2010,France,302185
+2010,Germany,52886
+2010,Italy,56540
+2010,Netherlands,4865
+2010,Spain,8096
+2010,Sweden,4496
+2010,Switzerland,18577
+2010,United Kingdom,97548
+2010,CIS,9602
+2010,CIS-Russian Federation,6615
+2010,CIS-Other European,31137
+2010,AFRICA,226207
+2010,Comoros,746
+2010,Kenya,1548
+2010,Malagasy Rep.,9833
+2010,Reunion Island,114914
+2010,Seychelles,10160
+2010,South Africa,81458
+2010,Zimbabwe,1204
+2010,Other African,6344
+2010,ASIA,75985
+2010,Hong Kong SAR,415
+2010,India,49779
+2010,Japan,1485
+2010,Malaysia,1438
+2010,Peoples' Rep. of China,7609
+2010,Singapore,1909
+2010,United Arab Emirates,3470
+2010,Other Asian,9880
+2010,OCEANIA,12246
+2010,Australia,11493
+2010,Other Oceanian,753
+2010,AMERICA,13703
+2010,USA,7316
+2010,Canada,3619
+2010,Other American,2768
+2010,Other & Not Stated,1285
+2010,All Countries,934827
+2011,EUROPE,590113
+2011,Austria,8822
+2011,Belgium,12029
+2011,France,282469
+2011,Germany,56331
+2011,Italy,52747
+2011,Netherlands,5179
+2011,Spain,9801
+2011,Sweden,4325
+2011,Switzerland,24362
+2011,United Kingdom,88182
+2011,CIS,15246
+2011,CIS-Russian Federation,12224
+2011,CIS-Other European,30620
+2011,AFRICA,250709
+2011,Comoros,969
+2011,Kenya,1914
+2011,Malagasy Rep.,11449
+2011,Reunion Island,132535
+2011,Seychelles,8485
+2011,South Africa,86232
+2011,Zimbabwe,1495
+2011,Other African,7630
+2011,ASIA,91057
+2011,Hong Kong SAR,593
+2011,India,53955
+2011,Japan,1545
+2011,Malaysia,1989
+2011,Peoples' Rep. of China,15133
+2011,Singapore,2461
+2011,United Arab Emirates,3780
+2011,Other Asian,11601
+2011,OCEANIA,16761
+2011,Australia,15726
+2011,Other Oceanian,1035
+2011,AMERICA,14408
+2011,USA,6870
+2011,Canada,3887
+2011,Other American,3651
+2011,Other & Not Stated,1594
+2011,All Countries,964642
+2012,EUROPE,555528
+2012,Austria,8151
+2012,Belgium,10967
+2012,France,256929
+2012,Germany,55186
+2012,Italy,40009
+2012,Netherlands,4434
+2012,Spain,9473
+2012,Sweden,4295
+2012,Switzerland,26002
+2012,United Kingdom,87648
+2012,CIS,23094
+2012,CIS-Russian Federation,19429
+2012,CIS-Other European,29340
+2012,AFRICA,270386
+2012,Comoros,1076
+2012,Kenya,2705
+2012,Malagasy Rep.,13563
+2012,Reunion Island,144340
+2012,Seychelles,6779
+2012,South Africa,89058
+2012,Zimbabwe,1568
+2012,Other African,11297
+2012,ASIA,104336
+2012,Hong Kong SAR,1269
+2012,India,55197
+2012,Japan,1641
+2012,Malaysia,1967
+2012,Peoples' Rep. of China,20885
+2012,Singapore,2078
+2012,United Arab Emirates,5403
+2012,Other Asian,15896
+2012,OCEANIA,17863
+2012,Australia,17009
+2012,Other Oceanian,854
+2012,AMERICA,16624
+2012,USA,6374
+2012,Canada,4736
+2012,Other American,5514
+2012,Other & Not Stated,704
+2012,All Countries,965441
